@@ -2,7 +2,7 @@
 
 * Clone this repo and install the requirements
     ```bash
-    git clone https://github.com/hemantapkh/PyBirthdayWish.git && cd PyBirthdayWish && pip install -r requirements.txt
+    git clone https://github.com/Dhanush2468/NewYear_Projects.git && cd PyBirthdayWish && pip install -r requirements.txt
     ```
 * Edit the ``arts/art.py`` file and add your texts and colors using color codes.
 
